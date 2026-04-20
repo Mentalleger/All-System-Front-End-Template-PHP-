@@ -1,10 +1,16 @@
 <?php 
 
 
-include "pages/includes/head.php";
-include "pages/includes/top-nav.php";
-include "pages/includes/sidebar.php";
-include "pages/includes/contents.php";
-include "pages/includes/footer.php";
+include "pages/head.php";
+include "pages/top-nav.php";
+?>
+<div class="d-flex" style="height:100vh;">
+    <?php
+    include "pages/sidebar.php";
+    include "pages/contents.php";
+    ?>
+</div>
+<?php
+include "pages/footer.php";
 
 ?>

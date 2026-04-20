@@ -9,8 +9,15 @@
 
     <!-- BOOTSTRAP -->
     <link href="../components/bootstrap 5/css/bootstrap.min.css" rel="stylesheet">
-    <script src="../components/bootstrap 5/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Jquery -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
+    
     <!-- DATA TABLES -->
-    <link href="../components/DataTables/datatables.min.css" rel="stylesheet">
-    <script src="../components/DataTables/datatables.min.js"></script>
+    <link href="../components/DataTables/datatables.css" rel="stylesheet">
+    
+    <!-- Sidebar -->
+    <link href="../css/sidebar.css" rel="stylesheet">
+
+    
 </head>
